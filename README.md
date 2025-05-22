@@ -22,7 +22,7 @@ Requirements:
 - Libraries: Pandas, NumPy, Matplitlib, Seaborn, Jupyter
 
 How to Use:
-1. Open the file Capstone-Project-Module-2.ipynb using Jupyter Notebook or JupyterLab.
+1. Open the file CapstoneProject2.ipynb using Jupyter Notebook or JupyterLab.
 2. Ensure all required libraries are installed.
 3. Run the notebook cells sequentially to reproduce the analysis and visualizations.
 
